@@ -28,3 +28,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Ref
+
+[Vue.js によるアプリを Firebase で Hosting する最短の道](https://qiita.com/Satachito/items/4a00b402970d657a88f3)
